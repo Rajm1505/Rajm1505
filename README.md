@@ -4,11 +4,4 @@
 - 📫 Enquiry email : rajm150503@gmail.com
 
 Language Skills:
-  HTML, CSS, Javascript
-  Python - Django/DRF
-  MYSQL
-  PHP
-  Java
-  C,C#
-  Git, Github
-  AWS S3
+  HTML, CSS, Javascript   Python - Django/DRF   MYSQL   PHP   Java    C,C#    Git, Github   AWS S3
