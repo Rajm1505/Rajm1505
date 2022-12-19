@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing Efficient and responsive webapps using Django and DRF and Open for Remote job opportunities.
 - 🌱 I’m currently learning Javascript to enter into frontend development also.
 - 📫 Enquiry email : rajm150503@gmail.com
+- I write blogs at https://rajm.hashnode.dev
 
 Language Skills:
   - HTML, CSS, Javascript   
